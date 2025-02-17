@@ -1,0 +1,201 @@
+25-02-17 12:06 Session started
+----------------------------------------
+12:09:02 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\MelloApp\MelloApp.csproj
+----------------------------------------
+
+12:09:19 009:002 > i
+12:09:19 009:003 > im
+12:09:20 009:002 > imr
+12:09:20 009:003 > imre
+12:10:10 009:002 > imre<
+12:10:13 009:003 > imre<i
+12:10:14 009:004 > imre<it
+12:10:14 009:005 > imre<ite
+12:10:15 009:006 > imre<item
+12:10:17 009:007 > imre<itemG
+12:10:17 009:008 > imre<itemGr
+12:10:17 009:009 > imre<itemGro
+12:10:18 009:010 > imre<itemGrou
+12:10:19 009:011 > imre<itemGroup
+12:10:22 009:003 > imre<itemGroupI
+12:10:25 009:012 > imre<itemGroupI>
+12:10:25 009:013 > </ItemGroup>
+
+12:10:30 010:002 > <
+12:10:31 010:003 > <R
+12:10:31 010:004 > <Re
+12:10:34 010:005 > <Res
+12:10:34 010:006 > <Reso
+12:10:34 010:007 > <Resou
+12:10:34 010:008 > <Resour
+12:10:35 010:009 > <Resourc
+12:10:35 010:010 > <Resource
+12:10:41 010:012 > <Resource I
+12:10:41 010:013 > <Resource In
+12:10:41 010:014 > <Resource Inc
+12:10:41 010:015 > <Resource Incl
+12:10:41 010:016 > <Resource Inclu
+12:10:42 010:017 > <Resource Includ
+12:10:42 010:018 > <Resource Includa
+12:10:42 010:018 > <Resource Includae
+12:10:43 010:019 > <Resource Includae<
+12:10:44 010:019 > <Resource Includae<>
+12:10:44 010:020 > </Resource>
+12:10:59 010:019 >  =
+12:10:59 010:020 > ""
+12:11:00 010:000 > <Resource Include=""></Resource>
+12:11:00 010:021 > B
+12:11:01 010:022 > Bi
+12:11:01 010:023 > Bil
+12:11:01 010:024 > Bild
+12:11:06 010:025 > Bild/
+12:11:07 010:026 > Bild/*
+12:11:08 010:027 > Bild/*p
+12:11:08 010:028 > Bild/*pn
+12:11:09 010:029 > Bild/*png
+12:11:13 010:028 > Bild/*png .
+12:11:14 010:027 > Bild/*png ..
+12:11:14 010:028 > Bild/*png ..p
+12:11:15 010:029 > Bild/*png ..pn
+12:11:15 010:030 > Bild/*png ..png
+12:11:26 010:033 > Bild/*png ..png /
+12:11:53 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\MelloApp\MelloApp.csproj
+----------------------------------------
+12:11:59 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\MelloApp\MainWindow.xaml
+----------------------------------------
+12:12:06 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\MelloApp\MainWindow.xaml.cs
+----------------------------------------
+12:12:08 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\MelloApp\MainWindow.xaml
+----------------------------------------
+
+12:12:18 009:008 > i
+12:12:18 009:009 > im
+12:12:18 009:008 > <Image></Image>
+12:12:27 009:015 > b
+12:12:28 009:016 > bi
+
+12:13:20 007:015 > M
+12:13:21 007:016 > Me
+12:13:22 007:017 > Mel
+12:13:22 007:018 > Mell
+12:13:23 007:019 > Mello
+12:13:24 007:020 > MelloA
+12:13:25 007:021 > MelloAp
+12:13:25 007:022 > MelloApp
+
+12:13:39 008:033 > s
+12:13:39 008:034 > si
+12:13:39 008:035 > siz
+12:13:39 008:036 > size
+12:13:40 008:033 > SizeToContent=""
+12:13:42 008:048 > W
+12:13:42 008:049 > Wi
+12:13:42 008:050 > Wid
+12:13:42 008:051 > Widt
+12:13:42 008:052 > Width
+12:13:43 008:053 > WidthA
+12:13:43 008:054 > WidthAn
+12:13:43 008:055 > WidthAnd
+12:13:44 008:056 > WidthAndH
+12:13:44 008:057 > WidthAndHe
+12:13:44 008:058 > WidthAndHei
+12:13:45 008:059 > WidthAndHeig
+12:13:45 008:060 > WidthAndHeigh
+12:13:45 008:061 > WidthAndHeight
+12:13:57 008:051 > WidthAndHeightt
+
+12:15:03 011:015 > s
+12:15:03 011:016 > so
+12:15:03 011:017 > sou
+12:15:03 011:018 > sour
+12:15:04 011:015 > Source=""
+12:15:12 011:023 > B
+12:15:12 011:024 > Bi
+12:15:12 011:025 > Bil
+12:15:12 011:026 > Bild
+12:15:13 011:027 > Bild/
+12:15:23 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\MelloApp\MelloApp.csproj
+----------------------------------------
+12:15:25 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\MelloApp\MainWindow.xaml
+----------------------------------------
+12:15:26 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\MelloApp\MainWindow.xaml.cs
+----------------------------------------
+12:15:29 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\MelloApp\MelloApp.csproj
+----------------------------------------
+12:15:31 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\MelloApp\MainWindow.xaml
+----------------------------------------
+12:16:04 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\MelloApp\MainWindow.xaml
+----------------------------------------
+12:16:05 011:028 > <ItemGroup>
+    <Resource Include="./bilder/*.png" />
+  </ItemGroup>
+12:16:12 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\MelloApp\MelloApp.csproj
+----------------------------------------
+12:16:26 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\MelloApp\MainWindow.xaml
+----------------------------------------
+12:16:31 011:028 > M
+12:16:31 011:029 > Me
+12:16:31 011:030 > Mel
+12:16:31 011:031 > Melo
+12:16:33 011:032 > Melod
+12:16:34 011:033 > Melodi
+12:16:34 011:034 > Melodif
+12:16:35 011:035 > Melodife
+12:16:35 011:036 > Melodifes
+12:16:35 011:037 > Melodifest
+12:16:35 011:038 > Melodifesti
+12:16:35 011:039 > Melodifestiv
+12:16:36 011:040 > Melodifestiva
+12:16:36 011:041 > Melodifestival
+12:16:36 011:042 > Melodifestivale
+12:16:36 011:043 > Melodifestivalen
+12:16:37 011:044 > Melodifestivalen_
+12:16:38 011:045 > Melodifestivalen_L
+12:16:39 011:046 > Melodifestivalen_Lo
+12:16:39 011:047 > Melodifestivalen_Log
+12:16:40 011:048 > Melodifestivalen_Logo
+12:16:40 011:049 > Melodifestivalen_Logo-
+12:16:41 011:050 > Melodifestivalen_Logo-2
+12:16:42 011:051 > Melodifestivalen_Logo-25
+12:16:43 011:052 > Melodifestivalen_Logo-257
+12:16:43 011:053 > Melodifestivalen_Logo-2577
+12:16:44 011:054 > Melodifestivalen_Logo-25771
+12:16:45 011:055 > Melodifestivalen_Logo-257714
+12:16:45 011:056 > Melodifestivalen_Logo-2577144
+12:16:46 011:057 > Melodifestivalen_Logo-25771443
+12:16:46 011:058 > Melodifestivalen_Logo-257714431
+12:16:47 011:059 > Melodifestivalen_Logo-2577144316
+12:16:48 011:060 > Melodifestivalen_Logo-2577144316.
+12:16:48 011:061 > Melodifestivalen_Logo-2577144316.p
+12:16:48 011:062 > Melodifestivalen_Logo-2577144316.pn
+12:16:49 011:063 > Melodifestivalen_Logo-2577144316.png
+12:17:06 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\MelloApp\MainWindow.xaml
+----------------------------------------
+12:17:42 011:023 > Melodifestivalen_Logo-2577144316.pngb
+12:17:43 011:027 > Melodifestivalen_Logo-2577144316.pngbe
+12:17:43 011:028 > Melodifestivalen_Logo-2577144316.pngber
+12:17:45 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\MelloApp\MainWindow.xaml.cs
+----------------------------------------
+12:17:45 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\MelloApp\MelloApp.csproj
+----------------------------------------
+
+12:17:50 010:021 > b
+12:17:50 010:025 > be
+12:17:51 010:026 > ber
+12:17:52 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\MelloApp\MainWindow.xaml
+----------------------------------------
+12:18:42 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\MelloApp\MainWindow.xaml
+----------------------------------------
+
+12:18:47 011:030 > m
+12:18:50 011:047 > ml
+12:18:56 011:047 > mlL
+12:19:01 011:030 > mlLM
+12:19:28 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\MelloApp\MelloApp.csproj
+----------------------------------------
+12:19:43 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\MelloApp\MainWindow.xaml
+----------------------------------------
+12:20:04 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\MelloApp\MelloApp.csproj
+----------------------------------------
+12:20:10 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\MelloApp\MainWindow.xaml
+----------------------------------------

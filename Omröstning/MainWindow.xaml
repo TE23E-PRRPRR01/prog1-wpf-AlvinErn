@@ -1,0 +1,74 @@
+﻿<Window x:Class="EnkelOmröstning.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EnkelOmröstning"
+        mc:Ignorable="d"
+        Title="Omröstning" Height="515" Width="400">
+        
+     <StackPanel Margin="20">
+     <Label FontWeight="bold" FontSize="20"><TextBlock TextDecorations="Underline"
+     TextAlignment="center" Width="335">Vilken är din favoritfärg?</TextBlock></Label>
+     
+     <WrapPanel>
+        <Label FontWeight="bold" FontSize="15"><TextBlock TextAlignment="center" Width="160" 
+        TextDecorations="Underline">Lägg till en röst</TextBlock></Label>
+        <Label FontWeight="bold" FontSize="15"><TextBlock TextAlignment="center" Width="160" 
+        TextDecorations="Underline">Ta bort en röst</TextBlock></Label>
+     </WrapPanel>
+
+     <WrapPanel>
+        <Button Name="plusFärg1" Click="KlickRösta" Margin="2.5" Width="167.5"><TextBlock Name="txbPlusFärg1">Röd</TextBlock></Button>
+        <Button Name="minusFärg1" Click="KlickMinusRöst" Margin="2.5" Width="167.5"><TextBlock Name="txbMinusFärg1">Röd</TextBlock></Button>
+     </WrapPanel>
+
+     <WrapPanel>
+        <Button Name="plusFärg2" Click="KlickRösta" Margin="2.5" Width="167.5"><TextBlock Name="txbPlusFärg2">Blå</TextBlock></Button>
+        <Button Name="minusFärg2" Click="KlickMinusRöst" Margin="2.5" Width="167.5"><TextBlock Name="txbMinusFärg2">Blå</TextBlock></Button>
+     </WrapPanel>
+
+     <WrapPanel>
+        <Button Name="plusFärg3" Click="KlickRösta" Margin="2.5" Width="167.5"><TextBlock Name="txbPlusFärg3">Grön</TextBlock></Button>
+        <Button Name="minusFärg3" Click="KlickMinusRöst" Margin="2.5" Width="167.5"><TextBlock Name="txbMinusFärg3">Grön</TextBlock></Button>
+     </WrapPanel>
+
+     <WrapPanel>
+        <Button Name="plusFärg4" Click="KlickRösta" Margin="2.5" Width="167.5"><TextBlock Name="txbPlusFärg4">Orange</TextBlock></Button>
+        <Button Name="minusFärg4" Click="KlickMinusRöst" Margin="2.5" Width="167.5"><TextBlock Name="txbMinusFärg4">Orange</TextBlock></Button>
+     </WrapPanel>
+
+     <WrapPanel>
+        <Button Name="plusFärg5" Click="KlickRösta" Margin="2.5" Width="167.5"><TextBlock Name="txbPlusFärg5">Lila</TextBlock></Button>
+        <Button Name="minusFärg5" Click="KlickMinusRöst" Margin="2.5" Width="167.5"><TextBlock Name="txbMinusFärg5">Lila</TextBlock></Button>
+     </WrapPanel>
+
+     <WrapPanel>
+        <Button Name="plusFärg6" Click="KlickRösta" Margin="2.5" Width="167.5"><TextBlock Name="txbPlusFärg6">Gul</TextBlock></Button>
+        <Button Name="minusFärg6" Click="KlickMinusRöst" Margin="2.5" Width="167.5"><TextBlock Name="txbMinusFärg6">Gul</TextBlock></Button>
+     </WrapPanel>
+
+     <Button Name="nollställ" Click="KlickNollställ" Margin="2.5">
+     <TextBlock TextDecorations="Underline" FontWeight="bold">Nollställ rösterna</TextBlock></Button>
+
+        <Label FontWeight="bold"><TextBlock TextDecorations="Underline">Antal röster:</TextBlock></Label>
+        <TextBox Name="txbResultat" IsReadOnly="True">Röd: 0, Blå: 0, Grön: 0, Orange: 0, Lila: 0, Gul: 0</TextBox>
+
+        <Label FontWeight="bold"><TextBlock TextDecorations="Underline">Ändra färger:</TextBlock></Label>
+
+        <WrapPanel HorizontalAlignment="center" Margin="5">
+        <Label FontWeight="bold">Färg 1:</Label><TextBox Name="färg1" Width="50">Röd</TextBox>
+        <Label FontWeight="bold">Färg 2:</Label><TextBox Name="färg2" Width="50">Blå</TextBox>
+        <Label FontWeight="bold">Färg 3:</Label><TextBox Name="färg3" Width="50">Grön</TextBox>
+        </WrapPanel>
+
+        <WrapPanel HorizontalAlignment="center" Margin="5">
+        <Label FontWeight="bold">Färg 4:</Label><TextBox Name="färg4" Width="50">Orange</TextBox>
+        <Label FontWeight="bold">Färg 5:</Label><TextBox Name="färg5" Width="50">Lila</TextBox>
+        <Label FontWeight="bold">Färg 6:</Label><TextBox Name="färg6" Width="50">Gul</TextBox>
+        </WrapPanel>
+
+        <Button Name="ÄndraFärger" Click="KlickÄndraFärger" Margin="10"><TextBlock FontWeight="bold"
+        TextDecorations="Underline">Ändra färger</TextBlock></Button>
+    </StackPanel>
+</Window>

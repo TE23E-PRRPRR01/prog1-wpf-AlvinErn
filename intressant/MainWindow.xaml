@@ -1,0 +1,35 @@
+﻿<Window x:Class="intressant.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:intressant"
+        mc:Ignorable="d"
+        Title="MainWindow" 
+        MinHeight="300" MinWidth="250"
+        MaxHeight="500" MaxWidth="350"
+        SizeToContent="WidthAndHeight">
+    <StackPanel Margin="10">
+    <Label FontWeight="bold" FontStyle="italic" FontSize="25"> 
+    <TextBlock TextDecorations="Underline">Räkna ut vilken veckodag ett datum är</TextBlock>
+    </Label>
+
+    <WrapPanel>
+    <TextBlock TextDecorations="Underline" FontStyle="italic" FontSize="14">Ange dag:</TextBlock>
+    <TextBox Name="txbDag" MinWidth="20" MaxHeight="20" Margin="5"></TextBox>
+    </WrapPanel>
+
+    <WrapPanel>
+    <TextBlock TextDecorations="Underline" FontStyle="italic" FontSize="14">Ange månad:</TextBlock>
+    <TextBox Name="txbMånad" MinWidth="20" MaxHeight="20" Margin="5"></TextBox>
+    </WrapPanel>
+    
+    <WrapPanel>
+    <TextBlock TextDecorations="Underline" FontStyle="italic" FontSize="14">Ange år:</TextBlock>
+    <TextBox Name="txbÅr" MinWidth="20" MaxHeight="20" Margin="5"></TextBox>
+    </WrapPanel>
+
+    <Button></Button>
+
+    </StackPanel>
+</Window>

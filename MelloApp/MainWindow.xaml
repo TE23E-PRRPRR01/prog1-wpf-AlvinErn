@@ -1,0 +1,29 @@
+﻿<Window x:Class="MelloApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MelloApp"
+        mc:Ignorable="d"
+        Title="MelloApp" 
+        Height="450" Width="800" 
+        SizeToContent="WidthAndHeight">
+        <StackPanel Background="black" Margin="2.5">
+
+        <Image Width="200" Source="bilder/Mello.png"></Image>
+        <Label Foreground="white" FontSize="24"><TextBlock TextDecorations="Underline">Rösta på din favvaolåt!</TextBlock></Label>
+        <Button Name="rödRöst" Click="KlickRösta" FontWeight="bold" Background="red" Foreground="white" Margin="5">Röd</Button>
+        <Button Name="blåRöst" Click="KlickRösta" FontWeight="bold" Background="blue" Foreground="white" Margin="5">Blå</Button>
+        <Button Name="grönRöst" Click="KlickRösta" FontWeight="bold" Background="green" Foreground="white" Margin="5">Grön</Button>
+        <Button Name="svartRöst" Click="KlickRösta" FontWeight="bold" Background="black" Foreground="white" Margin="5">Svart</Button>
+        <Button Name="vitRöst" Click="KlickRösta" FontWeight="bold" Background="white" Foreground="black" Margin="5">Vit</Button>
+
+        <WrapPanel Margin="10" Background="white">
+        <Label FontWeight="bold" Height="25"> <TextBlock TextDecorations="Underline">Antal röster: </TextBlock></Label>
+        <TextBox Name="Resultat" Width="200" Height="20" Margin="5">Röd: 0, Blå: 0, Grön: 0, Svart: 0, Vit: 0</TextBox>
+        </WrapPanel>
+
+        <Button Name="nollställResultat" Click="KlickNollställ" FontWeight="bold" Margin="10">Nollställ rösterna</Button>
+        
+        </StackPanel>
+</Window>

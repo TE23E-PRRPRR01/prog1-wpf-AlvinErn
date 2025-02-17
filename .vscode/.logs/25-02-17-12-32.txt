@@ -1,0 +1,10 @@
+12:32:28 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\MelloApp\MainWindow.xaml
+----------------------------------------
+25-02-17 12:32 Session started
+----------------------------------------
+12:32:33 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\Omröstning\MainWindow.xaml.cs
+----------------------------------------
+12:32:53 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\Omröstning\EnkelOmröstning.sln
+----------------------------------------
+12:32:54 Document switched to: c:\Users\alvin.erngren\github-classroom\prog1-wpf-AlvinErn\Omröstning\MainWindow.xaml
+----------------------------------------
